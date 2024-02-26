@@ -1,0 +1,5 @@
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.sourcelink.json
