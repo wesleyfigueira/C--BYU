@@ -3,3 +3,13 @@ C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.A
 C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.AssemblyInfo.cs
 C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.csproj.CoreCompileInputs.cache
 C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.sourcelink.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\bin\Debug\net8.0\Prep 02.exe
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\bin\Debug\net8.0\Prep 02.deps.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\bin\Debug\net8.0\Prep 02.runtimeconfig.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\bin\Debug\net8.0\Prep 02.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\bin\Debug\net8.0\Prep 02.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\refint\Prep 02.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\Prep 02.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 02\obj\Debug\net8.0\ref\Prep 02.dll
