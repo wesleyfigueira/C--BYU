@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\bin\Debug\net8.0\Prep 04.exe
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\bin\Debug\net8.0\Prep 04.deps.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\bin\Debug\net8.0\Prep 04.runtimeconfig.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\bin\Debug\net8.0\Prep 04.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\bin\Debug\net8.0\Prep 04.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.sourcelink.json
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\refint\Prep 04.dll
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\Prep 04.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Área de Trabalho\C# BYU\Prep 04\obj\Debug\net8.0\ref\Prep 04.dll

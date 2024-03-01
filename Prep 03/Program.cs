@@ -19,11 +19,11 @@ class Program
             string userInput2 = Console.ReadLine();
             guessNumber = int.Parse(userInput2);
 
-            if (magicNumber < guessNumber)
+            if (magicNumber > guessNumber)
             {
                 Console.WriteLine("Higher");
             }
-            else if (magicNumber > guessNumber)
+            else if (magicNumber < guessNumber)
             {
                 Console.WriteLine("Lower");
             }
