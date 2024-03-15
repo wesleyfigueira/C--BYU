@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prep 05", "Prep 05\Prep 05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journal", "..\Journal\Journal.csproj", "{6574C13D-7C2D-484D-B1B0-6E3AD7E49D4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scriptures", "..\Scriptures\scriptures\scriptures.csproj", "{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{6574C13D-7C2D-484D-B1B0-6E3AD7E49D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6574C13D-7C2D-484D-B1B0-6E3AD7E49D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6574C13D-7C2D-484D-B1B0-6E3AD7E49D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
