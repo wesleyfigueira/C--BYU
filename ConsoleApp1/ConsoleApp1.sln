@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journal", "..\Journal\Journ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scriptures", "..\Scriptures\scriptures\scriptures.csproj", "{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindfulness Program", "..\Mindfulness Program\Mindfulness Program.csproj", "{0875B37A-8BBB-4845-95F8-F86ABA44A603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E8C84D-B9DA-4F47-944E-5FFDB0797833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0875B37A-8BBB-4845-95F8-F86ABA44A603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0875B37A-8BBB-4845-95F8-F86ABA44A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0875B37A-8BBB-4845-95F8-F86ABA44A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0875B37A-8BBB-4845-95F8-F86ABA44A603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

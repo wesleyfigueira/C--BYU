@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scriptures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c7034a8bfc3623acbec800d8ad9c92fa312bed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2a68d3a108ff0a43884deefd700b443cf6e5d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("scriptures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scriptures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
