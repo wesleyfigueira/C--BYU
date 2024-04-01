@@ -76,15 +76,22 @@ class ChecklistGoal : Goal
     // Record completion of the goal
     public override int RecordCompletion()
     {
-        completedTimes++;
-        if (completedTimes == requiredTimes)
+        if (completedTimes < requiredTimes)
         {
-            // Bonus points when the goal is completed
-            return base.RecordCompletion() * requiredTimes;
+            completedTimes++;
+            if (completedTimes == requiredTimes)
+            {
+                // Bonus points when the goal is completed
+                return base.RecordCompletion() * requiredTimes;
+            }
+            else
+            {
+                return base.RecordCompletion();
+            }
         }
         else
         {
-            return base.RecordCompletion();
+            return 0; // Return 0 points if already completed required times
         }
     }
 }
