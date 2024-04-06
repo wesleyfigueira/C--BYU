@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eternal Quest", "Eternal Quest\Eternal Quest.csproj", "{328C4CF0-4931-41A9-933A-0B1D5EAAD79E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction with YouTube Videos", "Abstraction with YouTube Videos\Abstraction with YouTube Videos.csproj", "{E599BB47-1051-4A93-BB9A-A779E2BE8F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation with Online Ordering", "Encapsulation with Online Ordering\Encapsulation with Online Ordering.csproj", "{E09363A5-1562-4CF7-B23B-D371511054C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{328C4CF0-4931-41A9-933A-0B1D5EAAD79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{328C4CF0-4931-41A9-933A-0B1D5EAAD79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{328C4CF0-4931-41A9-933A-0B1D5EAAD79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E599BB47-1051-4A93-BB9A-A779E2BE8F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E599BB47-1051-4A93-BB9A-A779E2BE8F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E599BB47-1051-4A93-BB9A-A779E2BE8F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E599BB47-1051-4A93-BB9A-A779E2BE8F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09363A5-1562-4CF7-B23B-D371511054C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09363A5-1562-4CF7-B23B-D371511054C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09363A5-1562-4CF7-B23B-D371511054C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09363A5-1562-4CF7-B23B-D371511054C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
