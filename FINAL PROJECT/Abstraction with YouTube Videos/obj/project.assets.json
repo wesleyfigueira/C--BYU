@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Eternal Quest\\Eternal Quest.csproj",
-      "projectName": "Eternal Quest",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Eternal Quest\\Eternal Quest.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj",
+      "projectName": "Abstraction with YouTube Videos",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Eternal Quest\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

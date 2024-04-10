@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj": {}
+    "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Inheritance with Event Planning\\Inheritance with Event Planning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj": {
+    "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Inheritance with Event Planning\\Inheritance with Event Planning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj",
-        "projectName": "Abstraction with YouTube Videos",
-        "projectPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\Abstraction with YouTube Videos.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Inheritance with Event Planning\\Inheritance with Event Planning.csproj",
+        "projectName": "Inheritance with Event Planning",
+        "projectPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Inheritance with Event Planning\\Inheritance with Event Planning.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Abstraction with YouTube Videos\\obj\\",
+        "outputPath": "C:\\Users\\pc\\OneDrive\\Área de Trabalho\\C# BYU\\Inheritance with Event Planning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
